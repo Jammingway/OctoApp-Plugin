@@ -17,13 +17,13 @@
 #    OctoApp for Klipper    - The plugin is connected to Moonraker running on this device.
 #    OctoApp for Creality   - The plugin is being installed on a Creality device (Sonic Pad, K1, etc)
 #    OctoApp Companion      - The plugin will connect to Moonraker running on a different device on the same LAN
-#    OctoApp Bambu Connect  - The plugin will connect to A Bambu Lab printer running on the save LAN.
-#    OctoApp Elegoo Connect - The plugin will connect to A Elegoo printer running on the save LAN.
+#    OctoApp Bambu Connect  - The plugin will connect to a Bambu Lab printer running on the same LAN.
+#    OctoApp Elegoo Connect - The plugin will connect to an Elegoo printer running on the same LAN.
 #
 # For local Klipper or Creality devices, no arguments are required.
 # For a companion install, use the -companion argument.
 # For a Bambu Connect install, use the -bambu argument.
-# For a Elegoo Connect install, use the -elegoo argument.
+# For an Elegoo Connect install, use the -elegoo argument.
 #
 # Simply run ./install.sh from the git repo root directory to get started!
 #
